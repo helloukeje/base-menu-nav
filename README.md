@@ -1,10 +1,8 @@
-# Bottom Navigation Code
+# Bottom Navigation 
 
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
-🔳 Elevate user experience with a responsive and visually appealing bottom navigation code. Enhance navigation efficiency and aesthetics in your web projects.
-
-![Bottom Navigation Preview](./preview.png)
+Elevate user experience with a responsive and visually appealing bottom navigation code. Enhance navigation efficiency and aesthetics in your web projects.
 
 ## Table of Contents
 
