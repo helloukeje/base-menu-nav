@@ -24,6 +24,7 @@ Check out the live [demo here](https://your-demo-link.com).
 - Support for icons, text labels, or both in navigation items.
 - Easily customizable styles to match your project's aesthetics.
 
+
 ## Getting Started
 
 Follow these steps to integrate the bottom navigation code into your project.
@@ -46,3 +47,4 @@ You can directly include the necessary CSS and JS files in your HTML:
   <script src="path/to/bottom-navigation.js"></script>
 </body>
 </html>
+```
