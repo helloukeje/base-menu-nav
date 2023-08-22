@@ -11,7 +11,7 @@ Elevate user experience with a responsive and visually appealing bottom navigati
   - [Demo](#demo)
   - [Features](#features)
   - [Getting Started](#getting-started)
-    - [Installation](#installation)
+  - [Installation](#installation)
 
 ## Demo
 
