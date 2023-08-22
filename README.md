@@ -6,7 +6,7 @@ Elevate user experience with a responsive and visually appealing bottom navigati
 
 ## Table of Contents
 
-- [Bottom Navigation Code](#bottom-navigation-code)
+  - [Bottom Navigation Code](#bottom-navigation-code)
   - [Table of Contents](#table-of-contents)
   - [Demo](#demo)
   - [Features](#features)
