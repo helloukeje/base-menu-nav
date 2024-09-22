@@ -15,7 +15,7 @@ Elevate user experience with a responsive and visually appealing bottom navigati
 
 ## Demo
 
-Check out the live [demo here](https://your-demo-link.com).
+Check out the live [demo here](https://your-demo-link.com)
 
 ## Features
 
